@@ -3,7 +3,6 @@
 
 * **Paola Barbosa**
 * **Emerson Asto**
-* **Carlos Vega**
 
 
 ## Getting Started with Create React App
